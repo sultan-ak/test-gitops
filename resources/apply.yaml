@@ -1,0 +1,5 @@
+
+gke:
+	cluster_name: ""
+	location: ""
+	service_account_path: service_account.json
